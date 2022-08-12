@@ -1,3 +1,4 @@
 import conf
-print(conf.clave)
-print(conf.usuario)
+import requests
+import json
+
